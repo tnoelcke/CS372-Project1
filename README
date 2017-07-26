@@ -1,0 +1,24 @@
+Author: Thomas Noelcke.
+Class: CS372 Spring 3017
+
+to Compile: Run a bash script titled compileall. this will compile both files you need to
+run this program.
+
+to run chatserve: To run the chatserve you need to use java. To do this type java chatserve <portnumber>.
+
+to run chatclient: type chatclient <host> <portnumber>. 
+
+test machine: These programs should run on any of the flip servers.
+
+Make sure the portnumber specified in chatserve and chatclient are the same or the will not connect 
+with eachther.
+
+Barrowed Code:
+
+I barrowed some of the code form the java documentaion from oracals web site the url is show below:
+http://docs.oracle.com/javase/tutorial/networking/sockets/index.html
+
+For my c socket programing I borrowed some code from a project i did last term in CS344.
+Credit to Benjamin Brewster for some of the connection code on my chat client.
+
+

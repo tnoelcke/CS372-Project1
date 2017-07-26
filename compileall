@@ -1,0 +1,4 @@
+#!/bin/bash
+javac chatserve.java
+gcc -o chatclient chatclient.c
+
